@@ -14,3 +14,4 @@ const sendMail = (mail) => {
     return response.json();
   });
 };
+SHA256:p4UzWYjBHyz5hLlGKAqUn1vvSrVDeyKQrfZAMjaQMcQ 
