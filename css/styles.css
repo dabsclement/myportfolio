@@ -56,10 +56,10 @@ body, nav {
      content: "a Full Stack Developer";
    }
    50%{
-     content: "a Photographer ";
+     content: "a Product Manager ";
    }
    75%{
-     content: "a Podcaster";
+     content: "a Digital Marketer and SEO Specialist";
    }
  }
 
@@ -84,6 +84,15 @@ input {
 p {
    font-weight: 300;
 }
+
+.upper{
+   
+   margin-top: 20px;
+   
+
+   
+}
+
 
 .btn {
    color: var(--text-color);
@@ -166,4 +175,9 @@ li {
    textarea {
       height: 201px !important;
    }
+}
+
+#lastimage{
+   width: 592px;
+   height: 355px;
 }
